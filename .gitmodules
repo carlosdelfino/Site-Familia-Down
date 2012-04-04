@@ -1,3 +1,8 @@
 [submodule "v2/templates/familiadown_v-0_1"]
 	path = v2/templates/familiadown_v-0_1
 	url = ssh://git@github.com/carlosdelfino/Site-Familia-Down_Template-Joomla.git
+
+[submodule "v2/templates/familiadown_v-0_2"]
+	path = v2/templates/familiadown_v-0_2
+	url = ssh://git@github.com/carlosdelfino/Site-Familia-Down_Template-Joomla.git
+	
